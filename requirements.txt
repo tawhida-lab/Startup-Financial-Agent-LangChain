@@ -1,0 +1,5 @@
+streamlit
+langchain
+langchain-experimental
+langchain-groq
+pandas
