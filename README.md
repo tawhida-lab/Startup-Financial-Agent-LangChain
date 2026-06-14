@@ -3,7 +3,7 @@
 Ce dépôt héberge une application d'**Agentic AI** capable d'analyser et de piloter les données financières d'une startup en langage naturel (Français). Conçu avec une architecture légère, ce projet valide la manipulation de données complexes via des agents autonomes sans infrastructure lourde.
 
 ## 🎮 Démo Live
-🚀 **[Tester l'application sur Streamlit Cloud](https://share.streamlit.io/)** *(Lien de déploiement à mettre à jour)*
+🚀 **[Tester l'application sur Streamlit Cloud](https://share.streamlit.io/)** *(Lien de déploiement à mettre à jour une fois la cuisson terminée)*
 
 ---
 
@@ -32,6 +32,3 @@ Pour concevoir cet agent de production robuste et éliminer les instabilités na
 1. Clonez le dépôt :
    ```bash
    git clone [https://github.com/tawhida-lab/Startup-Financial-Agent-LangChain.git](https://github.com/tawhida-lab/Startup-Financial-Agent-LangChain.git)
-  pip install -r requirements.txt
-  streamlit run app.py
-   
