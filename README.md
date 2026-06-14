@@ -3,7 +3,7 @@
 Ce dépôt héberge une application d'**Agentic AI** capable d'analyser et de piloter les données financières d'une startup en langage naturel (Français). Conçu avec une architecture légère, ce projet valide la manipulation de données complexes via des agents autonomes sans infrastructure lourde.
 
 ## 🎮 Démo Live
-🚀 **[Tester l'application sur Streamlit Cloud](https://share.streamlit.io/)** *(Lien de déploiement à mettre à jour une fois la cuisson terminée)*
+🚀 **[Tester l'application sur Streamlit Cloud](https://share.streamlit.io/)** *(https://startup-financial-agent.streamlit.app/)*
 
 ---
 
